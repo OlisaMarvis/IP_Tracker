@@ -1,3 +1,6 @@
+//Ignore the code here. Still a work in progress, use the code in easyhttp.js.
+// Here I want to repeat the same functionality using purely fetch API
+
 //Declare DOM Elements
 const address = document.querySelector('.ip-add')
 const position = document.querySelector('.country')

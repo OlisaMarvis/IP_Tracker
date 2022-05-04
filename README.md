@@ -52,3 +52,6 @@ Okpala Olisaemeka
 
 ### Acknowledgments
 My acknowledgement to frontend mentor for providing the challenge and my team-mates for their encouragement and support.
+
+## Important
+Use only the javascript file at easyhttp.js as the fetchapi.js is still a work in progress
